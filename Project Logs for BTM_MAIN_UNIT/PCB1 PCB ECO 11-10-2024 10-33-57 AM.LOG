@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=AC_L Pin=J1-1
+Removed Pin From Net: NetName=AC_L Pin=J1-1
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=J1
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Net: Net with name "V_MCU_3.3V" already exists

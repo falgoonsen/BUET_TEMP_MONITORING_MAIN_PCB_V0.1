@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3V3 Pin=R121-1
+Removed Pin From Net: NetName=BUTTON Pin=R121-2
+Removed Pin From Net: NetName=BUTTON Pin=S3-1
+Removed Pin From Net: NetName=GND Pin=S3-2
+Removed Member From Class: ClassName=U_NRF52 Member=R121
+Removed Member From Class: ClassName=U_NRF52 Member=S3
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Net: Net with name "V_MCU_3.3V" already exists

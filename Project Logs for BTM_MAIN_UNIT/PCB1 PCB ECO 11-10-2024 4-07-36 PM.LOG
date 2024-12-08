@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=U_ESP8266 MODULE Member=U?
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=U_PWR_CTRL Member=Component C? 1uF
+Added Member To Class: ClassName=U_PWR_CTRL Member=Component U? MAX16054AZT+T

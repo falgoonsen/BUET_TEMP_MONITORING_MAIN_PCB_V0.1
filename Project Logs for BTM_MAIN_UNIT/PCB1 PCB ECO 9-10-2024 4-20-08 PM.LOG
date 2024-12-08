@@ -1,0 +1,149 @@
+Removed Pin From Net: NetName=GND Pin=J?-2
+Removed Pin From Net: NetName=GND Pin=J?-3
+Removed Member From Class: ClassName=U_SIM_INTERFACE Member=C?
+Removed Member From Class: ClassName=CARD EDGE (GSM MODULE ) Member=J?
+Removed Member From Class: ClassName=CARD EDGE (GSM MODULE ) Member=R?
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=CR? NewDesignator=CR1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=R? NewDesignator=R50
+Change Component Designator: OldDesignator=R? NewDesignator=R51
+Change Component Designator: OldDesignator=R? NewDesignator=R52
+Change Component Designator: OldDesignator=R? NewDesignator=R53
+Change Component Designator: OldDesignator=R? NewDesignator=R54
+Change Component Designator: OldDesignator=R? NewDesignator=R55
+Change Component Designator: OldDesignator=R? NewDesignator=R56
+Change Component Designator: OldDesignator=R? NewDesignator=R57
+Change Component Designator: OldDesignator=R? NewDesignator=R58
+Change Component Designator: OldDesignator=R? NewDesignator=R59
+Change Component Designator: OldDesignator=R? NewDesignator=R60
+Change Component Designator: OldDesignator=R? NewDesignator=R61
+Change Component Designator: OldDesignator=R? NewDesignator=R62
+Change Component Designator: OldDesignator=R? NewDesignator=R63
+Change Component Designator: OldDesignator=R? NewDesignator=R64
+Add Component: Footprint Not Found IPEX_20279-001E-03
+Add Component: Footprint Not Found IPEX_20279-001E-03
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Pin To Net: Unknown Pin: Pin GNSS1-1
+Add Pin To Net: Unknown Pin: Pin GNSS1-2
+Add Pin To Net: Unknown Pin: Pin GNSS1-3
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin SB1-1
+Add Pin To Net: Unknown Pin: Pin SB1-2
+Add Pin To Net: Unknown Pin: Pin SB2-1
+Add Pin To Net: Unknown Pin: Pin SB2-2
+Add Pin To Net: Unknown Pin: Pin SB3-1
+Add Pin To Net: Unknown Pin: Pin SB3-2
+Add Pin To Net: Unknown Pin: Pin SB4-1
+Add Pin To Net: Unknown Pin: Pin SB4-2
+Add Pin To Net: Unknown Pin: Pin SB5-1
+Add Pin To Net: Unknown Pin: Pin SB5-2
+Add Pin To Net: Unknown Pin: Pin SB6-1
+Add Pin To Net: Unknown Pin: Pin SB6-2
+Add Pin To Net: Unknown Pin: Pin SB7-1
+Add Pin To Net: Unknown Pin: Pin SB7-2
+Add Pin To Net: Unknown Pin: Pin SB8-1
+Add Pin To Net: Unknown Pin: Pin SB8-2
+Add Pin To Net: Unknown Pin: Pin SB9-1
+Add Pin To Net: Unknown Pin: Pin SB9-2
+Add Pin To Net: Unknown Pin: Pin SB10-1
+Add Pin To Net: Unknown Pin: Pin SB10-2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC36_2
+Change Net Name : Old Net Name=NetIC?_10 New Net Name=NetIC2_10
+Change Net Name : Old Net Name=NetL?_2 New Net Name=NetL1_2
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetLED?_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=R56-1
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC38_2 Pin=C38-2
+Added Pin To Net: NetName=NetC38_2 Pin=CR1-5
+Added Pin To Net: NetName=NetC38_2 Pin=J2-7
+Added Pin To Net: NetName=NetC38_2 Pin=R64-1
+Added Net: Name=NetC38_2
+Added Pin To Net: NetName=NetC39_2 Pin=C39-2
+Added Pin To Net: NetName=NetC39_2 Pin=CR1-4
+Added Pin To Net: NetName=NetC39_2 Pin=J2-3
+Added Pin To Net: NetName=NetC39_2 Pin=R63-1
+Added Net: Name=NetC39_2
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=CR1-3
+Added Pin To Net: NetName=NetC40_2 Pin=J2-2
+Added Pin To Net: NetName=NetC40_2 Pin=R62-1
+Added Net: Name=NetC40_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R51-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R52-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R54-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R59-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R61-2
+Added Net: Name=NetQ3_1
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component C32 100nF
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component C33 100nf
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component C34 c-0603
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component C35 c-0603
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component C36 22pF
+Added Member To Class: ClassName=U_SIM_INTERFACE Member=Component C37 100nf
+Added Member To Class: ClassName=U_SIM_INTERFACE Member=Component C38 22pF
+Added Member To Class: ClassName=U_SIM_INTERFACE Member=Component C39 22pF
+Added Member To Class: ClassName=U_SIM_INTERFACE Member=Component C40 22pF
+Add Class Member: Failed to add class member : Component GNSS1 IPX
+Add Class Member: Failed to add class member : Component J1 IPX
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component LED2 Red LED
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component Q2 AO3400A
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component Q3 AO3400A
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R50 1K
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R51 1K
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R52 1K
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R53 10K,75V,1%
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R54 1kO
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R55 10R
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R56 0R,1%
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R57 100KO
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R58 100O
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R59 100O
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R60 10K,75V,1%
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component R61 10K,75V,1%
+Added Member To Class: ClassName=U_SIM_INTERFACE Member=Component R62 100KO
+Added Member To Class: ClassName=U_SIM_INTERFACE Member=Component R64 100KO
+Add Class Member: Failed to add class member : Component SB1 solder bridge
+Add Class Member: Failed to add class member : Component SB2 solder bridge
+Add Class Member: Failed to add class member : Component SB3 solder bridge
+Add Class Member: Failed to add class member : Component SB4 solder bridge
+Add Class Member: Failed to add class member : Component SB5 solder bridge
+Add Class Member: Failed to add class member : Component SB6 solder bridge
+Add Class Member: Failed to add class member : Component SB7 solder bridge
+Add Class Member: Failed to add class member : Component SB8 solder bridge
+Add Class Member: Failed to add class member : Component SB9 solder bridge
+Add Class Member: Failed to add class member : Component SB10 solder bridge

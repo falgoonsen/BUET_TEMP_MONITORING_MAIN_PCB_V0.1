@@ -1,0 +1,20 @@
+Added Component: Designator=J1(IPEX_20279-001E-03)
+Add component (AddParameter): Name = "LCSC"; Value = "C3173448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "I-PEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "20279-001E-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(IPEX_20279-001E-03)
+Add component (AddParameter): Name = "LCSC"; Value = "C3173448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "I-PEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "20279-001E-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNSS Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=NetC35_2 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component J1 IPX
+Added Member To Class: ClassName=CARD EDGE (GSM MODULE ) Member=Component J3 IPX

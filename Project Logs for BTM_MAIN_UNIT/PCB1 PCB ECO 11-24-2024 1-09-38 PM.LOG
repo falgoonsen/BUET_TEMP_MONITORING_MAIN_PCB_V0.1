@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=U_Humidity Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=P_H? NewDesignator=P_H3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=U? NewDesignator=U12
+Change Component Designator: OldDesignator=U? NewDesignator=U33
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC35_2
+Add Net: Net with name "3V3" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "VCC" already exists
+Added Member To Class: ClassName=U_Humidity Member=Component C39 0.1uF,50V,10%
+Added Member To Class: ClassName=U_Humidity Member=Component R1 330O
+Added Member To Class: ClassName=U_Humidity Member=Component R2 4.7kO
+Added Member To Class: ClassName=U_Humidity Member=Component U33 AHT20

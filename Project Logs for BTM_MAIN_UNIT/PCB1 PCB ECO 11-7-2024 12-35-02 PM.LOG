@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VCC Pin=TF1-4
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Component: Footprint Not Found 8-VSSOP
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Added Pin To Net: NetName=+3V3 Pin=TF1-4
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Class Member: Failed to add class member : Component IC1 AMS1117-3.3
+Add Class Member: Failed to add class member : Component U9 TXS0102DCUR

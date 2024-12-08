@@ -1,0 +1,5 @@
+Remove Pin=SB1-2 From Net=SD_SCLK
+Remove Pin=SB8-1 From Net=SDIO_CLK
+Remove Pin=U13-4 From Net=UART_TX
+Remove Pin=U13-5 From Net=UART_RX
+Remove Pin=U13-7 From Net=+5V

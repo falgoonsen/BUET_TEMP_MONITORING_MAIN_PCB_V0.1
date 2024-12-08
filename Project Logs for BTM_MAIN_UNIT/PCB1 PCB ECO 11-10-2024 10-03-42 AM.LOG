@@ -1,0 +1,23 @@
+Added Component: Designator=U9(8-VSSOP)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxs0102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C53434"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TXS0102DCUR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSSOP-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 Channel 24Mbps"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Added Pin To Net: NetName=NetR66_1 Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=NetR64_1 Pin=U9-8
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=RS485 Member=Component U9 TXS0102DCUR

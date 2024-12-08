@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=+12V Pin=J6-01
+Removed Pin From Net: NetName=+12V Pin=J7-01
+Removed Pin From Net: NetName=GND Pin=Q5-3
+Removed Pin From Net: NetName=GND Pin=Q6-3
+Removed Pin From Net: NetName=GND Pin=R98-1
+Removed Pin From Net: NetName=GND Pin=R99-1
+Removed Member From Class: ClassName=OUTPUT Member=J6
+Removed Member From Class: ClassName=OUTPUT Member=J7
+Removed Member From Class: ClassName=OUTPUT Member=Q5
+Removed Member From Class: ClassName=OUTPUT Member=Q6
+Removed Member From Class: ClassName=OUTPUT Member=R96
+Removed Member From Class: ClassName=OUTPUT Member=R97
+Removed Member From Class: ClassName=OUTPUT Member=R98
+Removed Member From Class: ClassName=OUTPUT Member=R99
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Component: Footprint Not Found 8-VSSOP
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Class Member: Failed to add class member : Component IC1 AMS1117-3.3
+Add Class Member: Failed to add class member : Component U9 TXS0102DCUR

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5V Pin=R?-1
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Added Pin To Net: NetName=+5V Pin=LS?-P
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=U_BUZZER Member=Component R? 1K

@@ -1,0 +1,57 @@
+Removed Member From Class: ClassName=U_OUTPUT Member=LS?
+Added Component: Designator=Q?(SOT-23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MMBT2222ALT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO,75V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC0402FR-072K7L_C138017.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2085102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SR0402JR-7W1KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "1kO,50V,5%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC0402FR-072K7L_C138017.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2085102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SR0402JR-7W1KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "1kO,50V,5%"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=+5V Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetLS?_N Pin=LS?-N
+Added Pin To Net: NetName=NetLS?_N Pin=Q?-3
+Added Net: Name=NetLS?_N
+Added Pin To Net: NetName=NetLS?_P Pin=LS?-P
+Added Pin To Net: NetName=NetLS?_P Pin=R?-2
+Added Net: Name=NetLS?_P
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Class: Name=U_BUZZER

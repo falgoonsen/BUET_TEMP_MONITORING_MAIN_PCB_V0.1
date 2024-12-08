@@ -1,0 +1,25 @@
+Added Component: Designator=J6(Screw Connector 2pin)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811051134_TE-Connectivity-2-1437667-4_C306200.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C306200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2-1437667-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(AC POWER PORT)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2311101854_Legion-RT-C08-F2-WH_C19190827.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C19190827"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Legion"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RT-C08-F2-WH"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Added Pin To Net: NetName=+12V Pin=J6-01
+Added Pin To Net: NetName=NetJ6_02 Pin=J6-02
+Added Pin To Net: NetName=AC_L Pin=J?-1
+Added Pin To Net: NetName=AC_N Pin=J?-2
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=U_OUTPUT Member=Component J6 Screw Connector 2pin
+Added Member To Class: ClassName=U_POWER SUPPLY Member=Component J? RT-C08-F2-WH

@@ -1,0 +1,126 @@
+Added Pin To Net: NetName=NetAE1_1 Pin=AE1-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+3V3 Pin=C1-2
+Added Pin To Net: NetName=NetC95_1 Pin=C95-1
+Added Pin To Net: NetName=GND Pin=C95-2
+Added Pin To Net: NetName=NetC96_1 Pin=C96-1
+Added Pin To Net: NetName=GND Pin=C96-2
+Added Pin To Net: NetName=GND Pin=C97-1
+Added Pin To Net: NetName=NetC97_2 Pin=C97-2
+Added Pin To Net: NetName=GND Pin=C98-1
+Added Pin To Net: NetName=XTAL_HF1 Pin=C98-2
+Added Pin To Net: NetName=GND Pin=C99-1
+Added Pin To Net: NetName=XTAL_HF2 Pin=C99-2
+Added Pin To Net: NetName=GND Pin=C100-1
+Added Pin To Net: NetName=3V3 Pin=C100-2
+Added Pin To Net: NetName=GND Pin=C101-1
+Added Pin To Net: NetName=3V3 Pin=C101-2
+Added Pin To Net: NetName=3V3 Pin=C102-1
+Added Pin To Net: NetName=GND Pin=C102-2
+Added Pin To Net: NetName=GND Pin=C103-1
+Added Pin To Net: NetName=RF_FILTER Pin=C103-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Added Pin To Net: NetName=RF_FILTER Pin=L6-1
+Added Pin To Net: NetName=NetAE1_1 Pin=L6-2
+Added Pin To Net: NetName=SDIO_D2 Pin=R4-1
+Added Pin To Net: NetName=+3V3 Pin=R4-2
+Added Pin To Net: NetName=SDIO_D1 Pin=R5-1
+Added Pin To Net: NetName=+3V3 Pin=R5-2
+Added Pin To Net: NetName=SDIO_D0 Pin=R6-1
+Added Pin To Net: NetName=+3V3 Pin=R6-2
+Added Pin To Net: NetName=SDIO_D3 Pin=R7-1
+Added Pin To Net: NetName=+3V3 Pin=R7-2
+Added Pin To Net: NetName=SDIO_CMD Pin=R8-1
+Added Pin To Net: NetName=+3V3 Pin=R8-2
+Added Pin To Net: NetName=TF_CD Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=SDIO_D2 Pin=SB5-1
+Added Pin To Net: NetName=NetSB5_2 Pin=SB5-2
+Added Pin To Net: NetName=SDIO_D3 Pin=SB6-1
+Added Pin To Net: NetName=NetSB4_1 Pin=SB6-2
+Added Pin To Net: NetName=SDIO_CMD Pin=SB7-1
+Added Pin To Net: NetName=NetSB3_1 Pin=SB7-2
+Added Pin To Net: NetName=SDIO_CLK Pin=SB8-1
+Added Pin To Net: NetName=NetSB1_1 Pin=SB8-2
+Added Pin To Net: NetName=SDIO_D0 Pin=SB9-1
+Added Pin To Net: NetName=NetSB2_1 Pin=SB9-2
+Added Pin To Net: NetName=SDIO_D1 Pin=SB10-1
+Added Pin To Net: NetName=NetSB10_2 Pin=SB10-2
+Added Pin To Net: NetName=NetSB5_2 Pin=TF1-1
+Added Pin To Net: NetName=NetSB4_1 Pin=TF1-2
+Added Pin To Net: NetName=NetSB3_1 Pin=TF1-3
+Added Pin To Net: NetName=+3V3 Pin=TF1-4
+Added Pin To Net: NetName=NetSB1_1 Pin=TF1-5
+Added Pin To Net: NetName=GND Pin=TF1-6
+Added Pin To Net: NetName=NetSB2_1 Pin=TF1-7
+Added Pin To Net: NetName=NetSB10_2 Pin=TF1-8
+Added Pin To Net: NetName=NetR9_2 Pin=TF1-9
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=GND Pin=TF1-11
+Added Pin To Net: NetName=GND Pin=TF1-12
+Added Pin To Net: NetName=GND Pin=TF1-13
+Added Pin To Net: NetName=NetC96_1 Pin=U32-1
+Added Pin To Net: NetName=XTAL_LF1 Pin=U32-2
+Added Pin To Net: NetName=XTAL_LF2 Pin=U32-3
+Added Pin To Net: NetName=VCHRGSNS Pin=U32-4
+Added Pin To Net: NetName=CHRGSTS Pin=U32-5
+Added Pin To Net: NetName=NTCTEMP Pin=U32-6
+Added Pin To Net: NetName=VCAPSNS Pin=U32-7
+Added Pin To Net: NetName=CHRGEN Pin=U32-8
+Added Pin To Net: NetName=ANPWREN Pin=U32-10
+Added Pin To Net: NetName=VCAPSNSEN Pin=U32-11
+Added Pin To Net: NetName=3V3 Pin=U32-13
+Added Pin To Net: NetName=RESET Pin=U32-24
+Added Pin To Net: NetName=SWCLK Pin=U32-25
+Added Pin To Net: NetName=SWDIO Pin=U32-26
+Added Pin To Net: NetName=LED Pin=U32-27
+Added Pin To Net: NetName=RF_FILTER Pin=U32-30
+Added Pin To Net: NetName=GND Pin=U32-31
+Added Pin To Net: NetName=NetC97_2 Pin=U32-33
+Added Pin To Net: NetName=XTAL_HF1 Pin=U32-34
+Added Pin To Net: NetName=XTAL_HF2 Pin=U32-35
+Added Pin To Net: NetName=3V3 Pin=U32-36
+Added Pin To Net: NetName=BUTTON Pin=U32-37
+Added Pin To Net: NetName=DBG_RX Pin=U32-38
+Added Pin To Net: NetName=DBG_TX Pin=U32-39
+Added Pin To Net: NetName=GND Pin=U32-45
+Added Pin To Net: NetName=NetC95_1 Pin=U32-46
+Added Pin To Net: NetName=3V3 Pin=U32-48
+Added Pin To Net: NetName=GND Pin=U32-49
+Added Pin To Net: NetName=XTAL_HF1 Pin=X3-1
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=XTAL_HF2 Pin=X3-3
+Added Pin To Net: NetName=GND Pin=X3-4
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=U_NRF52 Member=Component AE1 2450AT18A100E
+Added Member To Class: ClassName=U_SD card Member=Component C1 CL10B104KB8NNNC
+Added Member To Class: ClassName=U_NRF52 Member=Component C95 1uF
+Added Member To Class: ClassName=U_NRF52 Member=Component C96 CC0603KRX7R9BB104
+Added Member To Class: ClassName=U_NRF52 Member=Component C97 100pF
+Added Member To Class: ClassName=U_NRF52 Member=Component C98 12pF
+Added Member To Class: ClassName=U_NRF52 Member=Component C99 12pF
+Added Member To Class: ClassName=U_NRF52 Member=Component C100 CC0603KRX7R9BB104
+Added Member To Class: ClassName=U_NRF52 Member=Component C101 CC0603KRX7R9BB104
+Added Member To Class: ClassName=U_NRF52 Member=Component C102 4.7uf
+Added Member To Class: ClassName=U_NRF52 Member=Component C103 0.8pF
+Added Member To Class: ClassName=U_NRF52 Member=Component L6 3.9nH
+Added Member To Class: ClassName=U_SD card Member=Component R4 4.7KO
+Added Member To Class: ClassName=U_SD card Member=Component R5 4.7KO
+Added Member To Class: ClassName=U_SD card Member=Component R6 4.7KO
+Added Member To Class: ClassName=U_SD card Member=Component R7 4.7KO
+Added Member To Class: ClassName=U_SD card Member=Component R8 4.7KO
+Added Member To Class: ClassName=U_SD card Member=Component R9 1K
+Added Member To Class: ClassName=U_SD card Member=Component SB5 solder bridge
+Added Member To Class: ClassName=U_SD card Member=Component SB6 solder bridge
+Added Member To Class: ClassName=U_SD card Member=Component SB7 solder bridge
+Added Member To Class: ClassName=U_SD card Member=Component SB8 solder bridge
+Added Member To Class: ClassName=U_SD card Member=Component SB9 solder bridge
+Added Member To Class: ClassName=U_SD card Member=Component SB10 solder bridge
+Added Member To Class: ClassName=U_SD card Member=Component TF1 TF-CARD H1.8
+Added Member To Class: ClassName=U_NRF52 Member=Component U32 NRF52832-QFAA-R
+Added Member To Class: ClassName=U_NRF52 Member=Component X3 32MHz

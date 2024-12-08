@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetB+1_1 Pin=B+1-1
+Removed Pin From Net: NetName=GND Pin=B-1-1
+Removed Member From Class: ClassName=U_BQ24259RGER Member=B+1
+Removed Member From Class: ClassName=U_BQ24259RGER Member=B-1
+Added Component: Designator=J?(JST_B2B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_JST-B2B-XH-A-LF-SN_C158012.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C158012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Added Pin To Net: NetName=NetB+1_1 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Change Net Name : Old Net Name=NetB+1_1 New Net Name=NetC50_2
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=U_BQ24259RGER Member=Component J? B2B-XH-A(LF)(SN)

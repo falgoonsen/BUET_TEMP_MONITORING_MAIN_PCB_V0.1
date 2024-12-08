@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C97 Old Footprint=C0603 New Footprint=C0402
+Change component parameters: Designator = "C97" ("C97"); Footprint = "C0603"; UniqueID = "\HUSHHHCA\VUGDUCKV" ("\HUSHHHCA\VUGDUCKV")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-CC0402JRNPO9BN101_C106200.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C106200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CC0402JRNPO9BN101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF,50V,5%"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=U_NRF52 Member=Component C102 4.7uf

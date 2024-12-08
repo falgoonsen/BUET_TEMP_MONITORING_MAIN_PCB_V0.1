@@ -1,0 +1,236 @@
+Removed Pin From Net: NetName=GND Pin=1-5
+Removed Pin From Net: NetName=GND Pin=B-1-1
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C43-1
+Removed Pin From Net: NetName=GND Pin=C44-1
+Removed Pin From Net: NetName=GND Pin=C46-1
+Removed Pin From Net: NetName=GND Pin=C47-1
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=GND Pin=C50-1
+Removed Pin From Net: NetName=GND Pin=C51-1
+Removed Pin From Net: NetName=GND Pin=C52-1
+Removed Pin From Net: NetName=GND Pin=C53-1
+Removed Pin From Net: NetName=GND Pin=C54-1
+Removed Pin From Net: NetName=GND Pin=C67-1
+Removed Pin From Net: NetName=GND Pin=C68-1
+Removed Pin From Net: NetName=GND Pin=C69-1
+Removed Pin From Net: NetName=GND Pin=C70-1
+Removed Pin From Net: NetName=GND Pin=C71-1
+Removed Pin From Net: NetName=GND Pin=C72-1
+Removed Pin From Net: NetName=GND Pin=C73-1
+Removed Pin From Net: NetName=GND Pin=C74-1
+Removed Pin From Net: NetName=GND Pin=C75-1
+Removed Pin From Net: NetName=GND Pin=C76-1
+Removed Pin From Net: NetName=GND Pin=C77-1
+Removed Pin From Net: NetName=GND Pin=C78-1
+Removed Pin From Net: NetName=GND Pin=C79-1
+Removed Pin From Net: NetName=GND Pin=C80-1
+Removed Pin From Net: NetName=GND Pin=C81-1
+Removed Pin From Net: NetName=GND Pin=C82-1
+Removed Pin From Net: NetName=GND Pin=D2-A
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Pin From Net: NetName=GND Pin=IC1-1
+Removed Pin From Net: NetName=GND Pin=J8-2
+Removed Pin From Net: NetName=GND Pin=LED1-1
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R26-1
+Removed Pin From Net: NetName=GND Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R28-2
+Removed Pin From Net: NetName=GND Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R30-2
+Removed Pin From Net: NetName=GND Pin=R31-2
+Removed Pin From Net: NetName=GND Pin=R32-2
+Removed Pin From Net: NetName=GND Pin=R46-2
+Removed Pin From Net: NetName=GND Pin=R49-1
+Removed Pin From Net: NetName=GND Pin=R63-1
+Removed Pin From Net: NetName=GND Pin=R69-1
+Removed Pin From Net: NetName=GND Pin=R87-1
+Removed Pin From Net: NetName=GND Pin=R88-1
+Removed Pin From Net: NetName=GND Pin=R89-1
+Removed Pin From Net: NetName=GND Pin=R90-1
+Removed Pin From Net: NetName=GND Pin=R91-1
+Removed Pin From Net: NetName=GND Pin=R94-1
+Removed Pin From Net: NetName=GND Pin=R95-1
+Removed Pin From Net: NetName=GND Pin=R104-2
+Removed Pin From Net: NetName=GND Pin=R105-2
+Removed Pin From Net: NetName=GND Pin=RJ1-8
+Removed Pin From Net: NetName=GND Pin=RJ1-13
+Removed Pin From Net: NetName=GND Pin=RJ1-14
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=T1-6
+Removed Pin From Net: NetName=GND Pin=TF1-6
+Removed Pin From Net: NetName=GND Pin=TF1-10
+Removed Pin From Net: NetName=GND Pin=TF1-11
+Removed Pin From Net: NetName=GND Pin=TF1-12
+Removed Pin From Net: NetName=GND Pin=TF1-13
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Pin From Net: NetName=GND Pin=U3-14
+Removed Pin From Net: NetName=GND Pin=U3-16
+Removed Pin From Net: NetName=GND Pin=U3-19
+Removed Pin From Net: NetName=GND Pin=U3-29
+Removed Pin From Net: NetName=GND Pin=U3-48
+Removed Pin From Net: NetName=GND Pin=U5-25
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U7-2
+Removed Pin From Net: NetName=GND Pin=U8-2
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=GND Pin=U10-3
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=GND Pin=U14-3
+Removed Pin From Net: NetName=GND Pin=U14-9
+Removed Pin From Net: NetName=GND Pin=U14-11
+Removed Pin From Net: NetName=GND Pin=U15-17
+Removed Pin From Net: NetName=GND Pin=U15-18
+Removed Pin From Net: NetName=GND Pin=U15-25
+Removed Pin From Net: NetName=GND Pin=U16-2
+Removed Pin From Net: NetName=GND Pin=U17-4
+Removed Pin From Net: NetName=GND Pin=U26-12
+Removed Pin From Net: NetName=GND Pin=U26-18
+Removed Pin From Net: NetName=GND Pin=U26-31
+Removed Pin From Net: NetName=GND Pin=U26-47
+Removed Pin From Net: NetName=GND Pin=U26-63
+Removed Pin From Net: NetName=GND Pin=USB1-1
+Removed Pin From Net: NetName=GND Pin=USB1-12
+Removed Pin From Net: NetName=GND Pin=USB1-13
+Removed Pin From Net: NetName=GND Pin=USB1-13
+Removed Pin From Net: NetName=GND Pin=USB1-14
+Removed Pin From Net: NetName=GND Pin=USB1-14
+Removed Pin From Net: NetName=GND Pin=VR1-3
+Removed Pin From Net: NetName=GND Pin=VR1-5
+Removed Pin From Net: NetName=GND Pin=VR1-6
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Pin From Net: NetName=GND Pin=X1-4
+Removed Pin From Net: NetName=GND Pin=X2-2
+Removed Pin From Net: NetName=GND Pin=X2-4
+Removed Member From Class: ClassName=MAX31865ATP Member=R100
+Removed Member From Class: ClassName=MAX31865ATP Member=R101
+Removed Member From Class: ClassName=MAX31865ATP Member=R102
+Removed Member From Class: ClassName=MAX31865ATP Member=R103
+Change Component Footprint: Designator=R92 Old Footprint=R0603 New Footprint=R1206
+Change Component Footprint: Designator=R93 Old Footprint=R0603 New Footprint=R1206
+Change Component Footprint: Designator=R94 Old Footprint=R0603 New Footprint=R1206
+Change Component Footprint: Designator=R95 Old Footprint=R0603 New Footprint=R1206
+Change Component Comment : Designator=R94 Old Comment=1.6kO New Comment=400O
+Change Component Comment : Designator=R95 Old Comment=1.6kO New Comment=400O
+Change Component Comment : Designator=R92 Old Comment=1K New Comment=400O
+Change Component Comment : Designator=R93 Old Comment=1K New Comment=400O
+Change component parameters: Designator = "R92" ("R92"); Footprint = "R0603"; UniqueID = "\HYXTQSLX\XPZBZQBX" ("\HYXTQSLX\XPZBZQBX")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2010201834_YAGEO-RT1206BRD07400RL_C706413.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C706413"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RT1206BRD07400RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "400O,0.1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R93" ("R93"); Footprint = "R0603"; UniqueID = "\HYXTQSLX\GQLBXBFN" ("\HYXTQSLX\GQLBXBFN")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2010201834_YAGEO-RT1206BRD07400RL_C706413.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C706413"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RT1206BRD07400RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "400O,0.1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R94" ("R94"); Footprint = "R0603"; UniqueID = "\HYXTQSLX\HDUIBPBF" ("\HYXTQSLX\HDUIBPBF")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2010201834_YAGEO-RT1206BRD07400RL_C706413.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C706413"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RT1206BRD07400RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "400O,0.1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R95" ("R95"); Footprint = "R0603"; UniqueID = "\HYXTQSLX\ZKTPANMW" ("\HYXTQSLX\ZKTPANMW")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2010201834_YAGEO-RT1206BRD07400RL_C706413.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C706413"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RT1206BRD07400RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "400O,0.1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR92_1 Pin=R92-1
+Added Pin To Net: NetName=NetR92_1 Pin=U18-3
+Added Pin To Net: NetName=NetR92_1 Pin=U18-4
+Added Net: Name=NetR92_1
+Added Pin To Net: NetName=NetR92_2 Pin=R92-2
+Added Pin To Net: NetName=NetR92_2 Pin=U18-1
+Added Pin To Net: NetName=NetR92_2 Pin=U18-2
+Added Net: Name=NetR92_2
+Added Pin To Net: NetName=NetR93_1 Pin=R93-1
+Added Pin To Net: NetName=NetR93_1 Pin=U19-3
+Added Pin To Net: NetName=NetR93_1 Pin=U19-4
+Added Net: Name=NetR93_1
+Added Pin To Net: NetName=NetR93_2 Pin=R93-2
+Added Pin To Net: NetName=NetR93_2 Pin=U19-1
+Added Pin To Net: NetName=NetR93_2 Pin=U19-2
+Added Net: Name=NetR93_2
+Added Pin To Net: NetName=NetR94_1 Pin=R94-1
+Added Pin To Net: NetName=NetR94_1 Pin=U22-3
+Added Pin To Net: NetName=NetR94_1 Pin=U22-4
+Added Net: Name=NetR94_1
+Added Pin To Net: NetName=NetR94_2 Pin=R94-2
+Added Pin To Net: NetName=NetR94_2 Pin=U22-1
+Added Pin To Net: NetName=NetR94_2 Pin=U22-2
+Added Net: Name=NetR94_2
+Added Pin To Net: NetName=NetR95_1 Pin=R95-1
+Added Pin To Net: NetName=NetR95_1 Pin=U23-3
+Added Pin To Net: NetName=NetR95_1 Pin=U23-4
+Added Net: Name=NetR95_1
+Added Pin To Net: NetName=NetR95_2 Pin=R95-2
+Added Pin To Net: NetName=NetR95_2 Pin=U23-1
+Added Pin To Net: NetName=NetR95_2 Pin=U23-2
+Added Net: Name=NetR95_2
+Change Class Name : Old Net Name=MAX31865ATP New Net Name=U_MAX31865ATP
+Added Member To Class: ClassName=U_MAX31865ATP Member=Component R92 400O
+Added Member To Class: ClassName=U_MAX31865ATP Member=Component R93 400O
+Added Member To Class: ClassName=U_MAX31865ATP Member=Component R94 400O
+Added Member To Class: ClassName=U_MAX31865ATP Member=Component R95 400O
+Change Room Name: Old Name=PWR_CTRL New Name=U_MAX31865ATP
+Change Room Scope: Old Scope=InComponentClass('PWR_CTRL') New Scope=InComponentClass('U_MAX31865ATP')

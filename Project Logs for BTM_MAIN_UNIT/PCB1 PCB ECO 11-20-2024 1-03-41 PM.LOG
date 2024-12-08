@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=C96-2
+Removed Member From Class: ClassName=U_NRF52 Member=C96
+Added Component: Designator=C102(C0402)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_Samsung-Electro-Mechanics-CL05A104KA5NNNC_C100072.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C100072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "+85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CL05A104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100nF,25V,10%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C102-1
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Added Pin To Net: NetName=NetC102_2 Pin=C102-2
+Added Pin To Net: NetName=NetC102_2 Pin=U32-1
+Added Net: Name=NetC102_2
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=U_NRF52 Member=Component C102 100nF

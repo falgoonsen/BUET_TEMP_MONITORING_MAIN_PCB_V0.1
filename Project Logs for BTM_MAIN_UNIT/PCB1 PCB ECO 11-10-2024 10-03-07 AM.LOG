@@ -1,0 +1,22 @@
+Add Component: Footprint Not Found 8-VSSOP
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Class Member: Failed to add class member : Component U9 TXS0102DCUR
+Added Room: Name=3.4_4.2V_TO_FIXED_3.3V
+Added Room: Name=BQ24259RGER
+Added Room: Name=INPUT
+Added Room: Name=MAX31865ATP
+Added Room: Name=USB

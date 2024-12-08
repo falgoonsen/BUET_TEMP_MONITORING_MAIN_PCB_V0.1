@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=LED3-1
+Removed Pin From Net: NetName=LED Pin=R120-1
+Removed Member From Class: ClassName=U_NRF52 Member=LED3
+Removed Member From Class: ClassName=U_NRF52 Member=R120
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Added Pin To Net: NetName=DBG_RX Pin=P_H2-4
+Add Net: Net with name "V_MCU_3.3V" already exists

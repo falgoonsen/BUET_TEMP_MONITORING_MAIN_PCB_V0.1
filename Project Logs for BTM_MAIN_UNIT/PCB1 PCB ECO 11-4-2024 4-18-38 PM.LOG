@@ -1,0 +1,108 @@
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Added Component: Designator=U7(VREG_V62/16624-01YE)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=214718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=214718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS63001DRCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSON-10 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS63001DRCR/Texas%20Instruments/view-part/214718/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=214718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 8-VSSOP
+Added Component: Designator=U19(VREG_V62/16624-01YE)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XTR111AIDRCR/Texas%20Instruments/view-part/523310/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "296-39546-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XTR111AIDRCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSON-10 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/XTR111AIDRCR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XTR111AIDRCR/Texas%20Instruments/view-part/523310/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin SB1-1
+Add Pin To Net: Unknown Pin: Pin SB1-2
+Add Pin To Net: Unknown Pin: Pin SB2-1
+Add Pin To Net: Unknown Pin: Pin SB2-2
+Add Pin To Net: Unknown Pin: Pin SB3-1
+Add Pin To Net: Unknown Pin: Pin SB3-2
+Add Pin To Net: Unknown Pin: Pin SB4-1
+Add Pin To Net: Unknown Pin: Pin SB4-2
+Add Pin To Net: Unknown Pin: Pin SB5-1
+Add Pin To Net: Unknown Pin: Pin SB5-2
+Add Pin To Net: Unknown Pin: Pin SB6-1
+Add Pin To Net: Unknown Pin: Pin SB6-2
+Add Pin To Net: Unknown Pin: Pin SB7-1
+Add Pin To Net: Unknown Pin: Pin SB7-2
+Add Pin To Net: Unknown Pin: Pin SB8-1
+Add Pin To Net: Unknown Pin: Pin SB8-2
+Add Pin To Net: Unknown Pin: Pin SB9-1
+Add Pin To Net: Unknown Pin: Pin SB9-2
+Add Pin To Net: Unknown Pin: Pin SB10-1
+Add Pin To Net: Unknown Pin: Pin SB10-2
+Added Pin To Net: NetName=NetC20_2 Pin=U7-1
+Added Pin To Net: NetName=NetL3_2 Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=NetL3_1 Pin=U7-4
+Added Pin To Net: NetName=NetC22_2 Pin=U7-5
+Added Pin To Net: NetName=NetC23_2 Pin=U7-6
+Added Pin To Net: NetName=NetC23_2 Pin=U7-7
+Added Pin To Net: NetName=NetC23_2 Pin=U7-8
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=NetC20_2 Pin=U7-10
+Added Pin To Net: NetName=GND Pin=U7-11
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-2
+Add Pin To Net: Unknown Pin: Pin U13-4
+Add Pin To Net: Unknown Pin: Pin U13-5
+Add Pin To Net: Unknown Pin: Pin U13-7
+Add Pin To Net: Unknown Pin: Pin U13-8
+Added Pin To Net: NetName=VSP Pin=U19-1
+Added Pin To Net: NetName=NetR78_2 Pin=U19-6
+Added Pin To Net: NetName=GND Pin=U19-10
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "NetC23_2" already exists
+Add Net: Net with name "NetC26_2" already exists
+Add Net: Net with name "NetR23_1" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Class Member: Failed to add class member : Component IC1 AMS1117-3.3
+Add Class Member: Failed to add class member : Component SB1 solder bridge
+Add Class Member: Failed to add class member : Component SB2 solder bridge
+Add Class Member: Failed to add class member : Component SB3 solder bridge
+Add Class Member: Failed to add class member : Component SB4 solder bridge
+Add Class Member: Failed to add class member : Component SB5 solder bridge
+Add Class Member: Failed to add class member : Component SB6 solder bridge
+Add Class Member: Failed to add class member : Component SB7 solder bridge
+Add Class Member: Failed to add class member : Component SB8 solder bridge
+Add Class Member: Failed to add class member : Component SB9 solder bridge
+Add Class Member: Failed to add class member : Component SB10 solder bridge
+Added Member To Class: ClassName=3.4_4.2V_TO_FIXED_3.3V Member=Component U7 TPS63001DRCR
+Add Class Member: Failed to add class member : Component U13 TXS0102DCUR
+Added Member To Class: ClassName=XTR111 Member=Component U19 XTR111AIDRCR

@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=C87_U_SIM_INTERFACE2-1
+Removed Pin From Net: NetName=USIM_VDD Pin=C87_U_SIM_INTERFACE2-2
+Removed Pin From Net: NetName=GND Pin=C88_U_SIM_INTERFACE2-1
+Removed Pin From Net: NetName=GND Pin=C89_U_SIM_INTERFACE2-1
+Removed Pin From Net: NetName=GND Pin=C90_U_SIM_INTERFACE2-1
+Removed Pin From Net: NetName=USIM_VDD Pin=CR1_U_SIM_INTERFACE2-1
+Removed Pin From Net: NetName=GND Pin=CR1_U_SIM_INTERFACE2-2
+Removed Pin From Net: NetName=USIM_VDD Pin=J10_U_SIM_INTERFACE2-1
+Removed Pin From Net: NetName=GND Pin=J10_U_SIM_INTERFACE2-5
+Removed Pin From Net: NetName=GND Pin=J10_U_SIM_INTERFACE2-8
+Removed Pin From Net: NetName=GND Pin=J10_U_SIM_INTERFACE2-9
+Removed Pin From Net: NetName=GND Pin=J10_U_SIM_INTERFACE2-10
+Removed Pin From Net: NetName=GND Pin=J10_U_SIM_INTERFACE2-11
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:AC POWER PORT
+Change Component Designator: OldDesignator=C87_U_SIM_INTERFACE1 NewDesignator=C87
+Change Component Designator: OldDesignator=C88_U_SIM_INTERFACE1 NewDesignator=C88
+Change Component Designator: OldDesignator=C89_U_SIM_INTERFACE1 NewDesignator=C89
+Change Component Designator: OldDesignator=C90_U_SIM_INTERFACE1 NewDesignator=C90
+Change Component Designator: OldDesignator=CR1_U_SIM_INTERFACE1 NewDesignator=CR1
+Change Component Designator: OldDesignator=J10_U_SIM_INTERFACE1 NewDesignator=J10
+Change Component Designator: OldDesignator=R106_U_SIM_INTERFACE1 NewDesignator=R106
+Change Component Designator: OldDesignator=R107_U_SIM_INTERFACE1 NewDesignator=R107
+Change Component Designator: OldDesignator=R108_U_SIM_INTERFACE1 NewDesignator=R108
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin J1-2
+Change Net Name : Old Net Name=NetC88_U_SIM_INTERFACE1_2 New Net Name=NetC88_2
+Change Net Name : Old Net Name=NetC89_U_SIM_INTERFACE1_2 New Net Name=NetC89_2
+Change Net Name : Old Net Name=NetC90_U_SIM_INTERFACE1_2 New Net Name=NetC90_2
+Change Net Name : Old Net Name=USIM_DET_U_SIM_INTERFACE1 New Net Name=USIM_DET
+Add Net: Net with name "V_MCU_3.3V" already exists
+Change Class Name : Old Net Name=U_SIM_INTERFACE1 New Net Name=U_SIM_INTERFACE
+Change Room Name: Old Name=U_SIM_INTERFACE1 New Name=U_SIM_INTERFACE
+Change Room Scope: Old Scope=InComponentClass('U_SIM_INTERFACE1') New Scope=InComponentClass('U_SIM_INTERFACE')

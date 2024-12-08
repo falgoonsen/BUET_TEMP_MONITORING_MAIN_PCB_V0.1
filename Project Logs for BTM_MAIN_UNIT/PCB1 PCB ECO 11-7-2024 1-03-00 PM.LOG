@@ -1,0 +1,30 @@
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Component: Footprint Not Found 8-VSSOP
+Added Component: Designator=U?(3p,P=6.35mm)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230321/4A82F27AE8A2F5607DB8D935518A4E7A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C5179472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DORABO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "DBT50G-6.35-3P-BK-P OGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "??,P=6.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "6.35mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Class Member: Failed to add class member : Component IC1 AMS1117-3.3
+Add Class Member: Failed to add class member : Component U9 TXS0102DCUR
+Added Member To Class: ClassName=OUTPUT Member=Component U? DORABO'

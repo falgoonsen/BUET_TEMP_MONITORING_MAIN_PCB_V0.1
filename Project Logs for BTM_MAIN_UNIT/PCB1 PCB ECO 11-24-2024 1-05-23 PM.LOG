@@ -1,0 +1,110 @@
+Removed Member From Class: ClassName=U_INPUT Member=U12
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://componentsearchengine.com/Datasheets/3/CC0603KRX7R9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C48906"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16V,10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2404081050_Murata-Electronics-GCM188R71H104KA57J_C3011652.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3011652"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM188R71H104KA57J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF,50V,10%"; VariantName = "[No Variations]"
+Added Component: Designator=J5(Screw Connector 2pin)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811051134_TE-Connectivity-2-1437667-4_C306200.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C306200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2-1437667-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(Screw Connector 2pin)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811051134_TE-Connectivity-2-1437667-4_C306200.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C306200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2-1437667-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P_H?(pin header 4)
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0402FR-074K7L_C105871.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C105871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "4.7kO,50V,1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC0603FR-07330RL_C105881.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C105881"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "330O,0.1W,1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0402FR-074K7L_C105871.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C105871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "4.7kO,50V,1%"; VariantName = "[No Variations]"
+Added Component: Designator=U?(3p,P=6.35mm)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230321/4A82F27AE8A2F5607DB8D935518A4E7A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C5179472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DORABO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "DBT50G-6.35-3P-BK-P OGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "??,P=6.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "6.35mm"; VariantName = "[No Variations]"
+Added Component: Designator=U?(PSON100P300X300X110-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AHT20/Asair/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Asair"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AHT20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AHT20/Asair/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Added Pin To Net: NetName=+12V Pin=J5-01
+Added Pin To Net: NetName=NetJ5_02 Pin=J5-02
+Added Pin To Net: NetName=+12V Pin=J6-01
+Added Pin To Net: NetName=NetJ6_02 Pin=J6-02
+Added Pin To Net: NetName=GND Pin=P_H?-3
+Added Pin To Net: NetName=GND Pin=U?-5
+Add Net: Net with name "3V3" already exists
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=U?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=STM32_SWCLK Pin=P_H?-2
+Added Net: Name=STM32_SWCLK
+Added Pin To Net: NetName=STM32_SWDIO Pin=P_H?-4
+Added Net: Name=STM32_SWDIO
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "VCC" already exists
+Added Class: Name=U_Humidity
+Added Member To Class: ClassName=U_OUTPUT Member=Component J5 Screw Connector 2pin
+Added Member To Class: ClassName=U_OUTPUT Member=Component J6 Screw Connector 2pin
+Added Member To Class: ClassName=U_STM32F446RET6 Member=Component P_H? header 4
+Added Member To Class: ClassName=U_INPUT Member=Component U? DORABO'

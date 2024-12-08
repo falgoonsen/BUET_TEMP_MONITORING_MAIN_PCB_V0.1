@@ -1,0 +1,17 @@
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Add Net: Net with name "3V3" already exists
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=U33-3
+Added Pin To Net: NetName=NetR2_1 Pin=U33-4
+Added Net: Name=NetR2_1
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=U_Humidity Member=Component R3 4.7kO

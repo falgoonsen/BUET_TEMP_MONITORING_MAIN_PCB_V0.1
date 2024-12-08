@@ -1,0 +1,100 @@
+Add Component: Footprint Not Found SOT229P700X180-4N
+Added Component: Designator=R53(DIP-2(VR))
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.digikey.com/en/supplier-centers/shenzhen-ruilongyuan-electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C113245"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Shenzhen Ruilongyuan Electronics Co.Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "14D561K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "560V,4500A"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found VREG_V62/16624-01YE
+Add Component: Footprint Not Found 8-VSSOP
+Add Component: Footprint Not Found VREG_V62/16624-01YE
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Added Pin To Net: NetName=AC_N Pin=R53-1
+Added Pin To Net: NetName=NetF1_2 Pin=R53-2
+Add Pin To Net: Unknown Pin: Pin SB1-1
+Add Pin To Net: Unknown Pin: Pin SB1-2
+Add Pin To Net: Unknown Pin: Pin SB2-1
+Add Pin To Net: Unknown Pin: Pin SB2-2
+Add Pin To Net: Unknown Pin: Pin SB3-1
+Add Pin To Net: Unknown Pin: Pin SB3-2
+Add Pin To Net: Unknown Pin: Pin SB4-1
+Add Pin To Net: Unknown Pin: Pin SB4-2
+Add Pin To Net: Unknown Pin: Pin SB5-1
+Add Pin To Net: Unknown Pin: Pin SB5-2
+Add Pin To Net: Unknown Pin: Pin SB6-1
+Add Pin To Net: Unknown Pin: Pin SB6-2
+Add Pin To Net: Unknown Pin: Pin SB7-1
+Add Pin To Net: Unknown Pin: Pin SB7-2
+Add Pin To Net: Unknown Pin: Pin SB8-1
+Add Pin To Net: Unknown Pin: Pin SB8-2
+Add Pin To Net: Unknown Pin: Pin SB9-1
+Add Pin To Net: Unknown Pin: Pin SB9-2
+Add Pin To Net: Unknown Pin: Pin SB10-1
+Add Pin To Net: Unknown Pin: Pin SB10-2
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-9
+Add Pin To Net: Unknown Pin: Pin U7-10
+Add Pin To Net: Unknown Pin: Pin U7-11
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-2
+Add Pin To Net: Unknown Pin: Pin U13-4
+Add Pin To Net: Unknown Pin: Pin U13-5
+Add Pin To Net: Unknown Pin: Pin U13-7
+Add Pin To Net: Unknown Pin: Pin U13-8
+Add Pin To Net: Unknown Pin: Pin U19-1
+Add Pin To Net: Unknown Pin: Pin U19-6
+Add Pin To Net: Unknown Pin: Pin U19-10
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "NetC23_2" already exists
+Add Net: Net with name "NetC26_2" already exists
+Add Net: Net with name "NetR23_1" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Class Member: Failed to add class member : Component IC1 AMS1117-3.3
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R53 560V,4500A
+Add Class Member: Failed to add class member : Component SB1 solder bridge
+Add Class Member: Failed to add class member : Component SB2 solder bridge
+Add Class Member: Failed to add class member : Component SB3 solder bridge
+Add Class Member: Failed to add class member : Component SB4 solder bridge
+Add Class Member: Failed to add class member : Component SB5 solder bridge
+Add Class Member: Failed to add class member : Component SB6 solder bridge
+Add Class Member: Failed to add class member : Component SB7 solder bridge
+Add Class Member: Failed to add class member : Component SB8 solder bridge
+Add Class Member: Failed to add class member : Component SB9 solder bridge
+Add Class Member: Failed to add class member : Component SB10 solder bridge
+Add Class Member: Failed to add class member : Component U7 TPS63001DRCR
+Add Class Member: Failed to add class member : Component U13 TXS0102DCUR
+Add Class Member: Failed to add class member : Component U19 XTR111AIDRCR

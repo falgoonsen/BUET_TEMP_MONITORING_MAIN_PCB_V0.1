@@ -1,0 +1,30 @@
+Add Component: Footprint Not Found SOT229P700X180-4N
+Added Component: Designator=J?(AC POWER PORT)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2311101854_Legion-RT-C08-F2-WH_C19190827.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C19190827"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Legion"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RT-C08-F2-WH"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 8-VSSOP
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Added Pin To Net: NetName=AC_L Pin=J?-1
+Added Pin To Net: NetName=AC_N Pin=J?-2
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Class Member: Failed to add class member : Component IC1 AMS1117-3.3
+Added Member To Class: ClassName=POWER SUPPLY Member=Component J? RT-C08-F2-WH
+Add Class Member: Failed to add class member : Component U9 TXS0102DCUR

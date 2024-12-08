@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=NetR38_1 Pin=R43-2
+Removed Pin From Net: NetName=NetR35_1 Pin=R44-2
+Removed Pin From Net: NetName=NetR36_1 Pin=R45-2
+Removed Pin From Net: NetName=NetR37_1 Pin=R47-2
+Removed Pin From Net: NetName=NetR38_1 Pin=U5-7
+Removed Pin From Net: NetName=NetR35_1 Pin=U5-8
+Removed Pin From Net: NetName=NetR36_1 Pin=U5-11
+Removed Pin From Net: NetName=NetR37_1 Pin=U5-14
+Removed Member From Class: ClassName=INPUT Member=U?
+Change Component Footprint: Designator=R35 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R36 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R37 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R38 Old Footprint=R0603 New Footprint=R0402
+Change Component Comment : Designator=R35 Old Comment=10K,75V,1% New Comment=10kO
+Change Component Comment : Designator=R36 Old Comment=10K,75V,1% New Comment=10kO
+Change Component Comment : Designator=R37 Old Comment=10K,75V,1% New Comment=10kO
+Change Component Comment : Designator=R38 Old Comment=10K,75V,1% New Comment=10kO
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=U? NewDesignator=U12
+Change Component Designator: OldDesignator=U? NewDesignator=U13
+Change component parameters: Designator = "R35" ("R35"); Footprint = "R0603"; UniqueID = "\GJIEUCOA" ("\GJIEUCOA")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241334_YAGEO-RC0402JR-0710KL_C60489.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C60489"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0402JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10kO,50V,5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "R0603"; UniqueID = "\ESUMSPDR" ("\ESUMSPDR")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241334_YAGEO-RC0402JR-0710KL_C60489.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C60489"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0402JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10kO,50V,5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "R0603"; UniqueID = "\LASNUTUT" ("\LASNUTUT")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241334_YAGEO-RC0402JR-0710KL_C60489.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C60489"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0402JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10kO,50V,5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "R0603"; UniqueID = "\UUZPFOIT" ("\UUZPFOIT")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241334_YAGEO-RC0402JR-0710KL_C60489.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C60489"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0402JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10kO,50V,5%"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Component: Footprint Not Found 8-VSSOP
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Added Pin To Net: NetName=NetR35_1 Pin=R43-2
+Added Pin To Net: NetName=NetR36_1 Pin=R44-2
+Added Pin To Net: NetName=NetR37_1 Pin=R45-2
+Added Pin To Net: NetName=NetR38_1 Pin=R47-2
+Added Pin To Net: NetName=NetR35_1 Pin=U5-7
+Added Pin To Net: NetName=NetR36_1 Pin=U5-8
+Added Pin To Net: NetName=NetR37_1 Pin=U5-11
+Added Pin To Net: NetName=NetR38_1 Pin=U5-14
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Class Member: Failed to add class member : Component IC1 AMS1117-3.3
+Add Class Member: Failed to add class member : Component U9 TXS0102DCUR
+Added Member To Class: ClassName=INPUT Member=Component U12 DORABO'
+Added Room: Name=3.4_4.2V_TO_FIXED_3.3V
+Added Room: Name=BQ24259RGER
+Added Room: Name=INPUT
+Added Room: Name=MAX31865ATP
+Added Room: Name=USB

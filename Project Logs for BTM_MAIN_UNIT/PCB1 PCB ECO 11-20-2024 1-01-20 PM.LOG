@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C103 Old Footprint=C0603 New Footprint=C0402
+Change component parameters: Designator = "C103" ("C103"); Footprint = "C0603"; UniqueID = "\HUSHHHCA\LOJKFXJY" ("\HUSHHHCA\LOJKFXJY")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Walsin-Tech-Corp-RF15N0R8A500_C172853.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C172853"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RF15N0R8A500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "50V,0.8pF,NP0"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Net: Net with name "V_MCU_3.3V" already exists

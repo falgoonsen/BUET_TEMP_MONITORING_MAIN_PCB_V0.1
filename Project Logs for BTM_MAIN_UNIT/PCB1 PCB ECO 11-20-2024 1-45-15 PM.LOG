@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C95 Old Footprint=CAPC1608X90N New Footprint=C0402
+Change component parameters: Designator = "C95" ("C95"); Footprint = "CAPC1608X90N"; UniqueID = "\HUSHHHCA\BNODXRNN" ("\HUSHHHCA\BNODXRNN")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2409272231_YAGEO-CC0402KRX7R5BB105_C115046.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C115046"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CC0402KRX7R5BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1uF,6.3V,10%"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Net: Net with name "V_MCU_3.3V" already exists

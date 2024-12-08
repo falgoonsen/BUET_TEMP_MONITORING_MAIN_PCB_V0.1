@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=C98 Old Footprint=CAPC1608X90N New Footprint=C0402
+Change Component Footprint: Designator=C99 Old Footprint=CAPC1608X90N New Footprint=C0402
+Change Component Comment : Designator=C98 Old Comment=12pF New Comment=12pF,50V,5%
+Change Component Comment : Designator=C99 Old Comment=12pF New Comment=12pF,50V,5%
+Change component parameters: Designator = "C98" ("C98"); Footprint = "CAPC1608X90N"; UniqueID = "\HUSHHHCA\SSXHDLUM" ("\HUSHHHCA\SSXHDLUM")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL05C120JB51PNC_Spec.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C472446"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL05C120JB51PNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "12pF,50V,5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C99" ("C99"); Footprint = "CAPC1608X90N"; UniqueID = "\HUSHHHCA\IKWQQZAT" ("\HUSHHHCA\IKWQQZAT")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL05C120JB51PNC_Spec.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C472446"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL05C120JB51PNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "12pF,50V,5%"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Net: Net with name "V_MCU_3.3V" already exists

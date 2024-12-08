@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=C102 NewDesignator=C96
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Change Net Name : Old Net Name=NetC102_2 New Net Name=NetC96_2
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=U_NRF52 Member=Component C96 100nF
+Added Member To Class: ClassName=U_NRF52 Member=Component C102 4.7uf

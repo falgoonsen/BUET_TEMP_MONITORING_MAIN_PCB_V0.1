@@ -1,0 +1,67 @@
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found solder bridge
+Add Component: Footprint Not Found 8-VSSOP
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin SB1-1
+Add Pin To Net: Unknown Pin: Pin SB2-1
+Add Pin To Net: Unknown Pin: Pin SB2-2
+Add Pin To Net: Unknown Pin: Pin SB3-1
+Add Pin To Net: Unknown Pin: Pin SB3-2
+Add Pin To Net: Unknown Pin: Pin SB4-1
+Add Pin To Net: Unknown Pin: Pin SB4-2
+Add Pin To Net: Unknown Pin: Pin SB5-1
+Add Pin To Net: Unknown Pin: Pin SB5-2
+Add Pin To Net: Unknown Pin: Pin SB6-1
+Add Pin To Net: Unknown Pin: Pin SB6-2
+Add Pin To Net: Unknown Pin: Pin SB7-1
+Add Pin To Net: Unknown Pin: Pin SB7-2
+Add Pin To Net: Unknown Pin: Pin SB8-2
+Add Pin To Net: Unknown Pin: Pin SB9-1
+Add Pin To Net: Unknown Pin: Pin SB9-2
+Add Pin To Net: Unknown Pin: Pin SB10-1
+Add Pin To Net: Unknown Pin: Pin SB10-2
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-2
+Add Pin To Net: Unknown Pin: Pin U13-8
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "NetC23_2" already exists
+Add Net: Net with name "NetC26_2" already exists
+Add Net: Net with name "NetR23_1" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Class Member: Failed to add class member : Component IC1 AMS1117-3.3
+Add Class Member: Failed to add class member : Component SB1 solder bridge
+Add Class Member: Failed to add class member : Component SB2 solder bridge
+Add Class Member: Failed to add class member : Component SB3 solder bridge
+Add Class Member: Failed to add class member : Component SB4 solder bridge
+Add Class Member: Failed to add class member : Component SB5 solder bridge
+Add Class Member: Failed to add class member : Component SB6 solder bridge
+Add Class Member: Failed to add class member : Component SB7 solder bridge
+Add Class Member: Failed to add class member : Component SB8 solder bridge
+Add Class Member: Failed to add class member : Component SB9 solder bridge
+Add Class Member: Failed to add class member : Component SB10 solder bridge
+Add Class Member: Failed to add class member : Component U13 TXS0102DCUR

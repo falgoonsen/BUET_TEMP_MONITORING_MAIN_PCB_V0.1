@@ -1,0 +1,24 @@
+Added Component: Designator=IC1(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-550594.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Advanced"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 8-VSSOP
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=VCC_3.3V_REG Pin=IC1-2
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=ETHERNET_W5500 Member=Component IC1 AMS1117-3.3
+Add Class Member: Failed to add class member : Component U9 TXS0102DCUR

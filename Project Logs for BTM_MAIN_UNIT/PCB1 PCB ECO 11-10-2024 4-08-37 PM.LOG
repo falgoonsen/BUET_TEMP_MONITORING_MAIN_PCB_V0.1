@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=BMS_I2C Member=NetU?_3
+Change Component Designator: OldDesignator=C? NewDesignator=C53
+Change Component Designator: OldDesignator=C? NewDesignator=C54
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U15
+Change Component Designator: OldDesignator=U? NewDesignator=U16
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC54_2
+Change Net Name : Old Net Name=NetSW?_2 New Net Name=NetSW1_2
+Change Net Name : Old Net Name=NetU?_3 New Net Name=NetU15_5
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=U_PWR_CTRL Member=Component C54 0.1uF,50V,10%
+Added Member To Class: ClassName=U_PWR_CTRL Member=Component U16 TPS22917DBVR
+Added Member To Class: ClassName=BMS_I2C Member=Wire NetU15_5

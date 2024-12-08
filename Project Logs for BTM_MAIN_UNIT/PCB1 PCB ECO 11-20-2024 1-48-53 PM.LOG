@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=R119 Old Footprint=R0603 New Footprint=R0402
+Change Component Comment : Designator=R119 Old Comment=0603WAF100JT5E New Comment=10kO
+Change component parameters: Designator = "R119" ("R119"); Footprint = "R0603"; UniqueID = "\HUSHHHCA\PKVJUXAA" ("\HUSHHHCA\PKVJUXAA")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241334_YAGEO-RC0402JR-0710KL_C60489.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C60489"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0402JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10kO,50V,5%"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Net: Net with name "V_MCU_3.3V" already exists

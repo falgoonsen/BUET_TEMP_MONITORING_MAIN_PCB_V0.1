@@ -1,0 +1,16 @@
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:AC POWER PORT
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Room: Name=U_BQ24259RGER
+Added Room: Name=U_INPUT
+Added Room: Name=U_MAX31865ATP
+Added Room: Name=U_OUTPUT
+Added Room: Name=U_POWER SUPPLY
+Added Room: Name=U_SD card
+Added Room: Name=U_USB

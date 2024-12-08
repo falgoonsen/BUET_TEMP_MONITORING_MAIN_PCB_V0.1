@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=C100 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C101 Old Footprint=C0603 New Footprint=C0402
+Change Component Comment : Designator=C100 Old Comment=CC0603KRX7R9BB104 New Comment=100nF
+Change Component Comment : Designator=C101 Old Comment=CC0603KRX7R9BB104 New Comment=100nF
+Change component parameters: Designator = "C100" ("C100"); Footprint = "C0603"; UniqueID = "\HUSHHHCA\ZNFWURYL" ("\HUSHHHCA\ZNFWURYL")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_Samsung-Electro-Mechanics-CL05A104KA5NNNC_C100072.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C100072"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL05A104KA5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF,25V,10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C101" ("C101"); Footprint = "C0603"; UniqueID = "\HUSHHHCA\KFPJFDYD" ("\HUSHHHCA\KFPJFDYD")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_Samsung-Electro-Mechanics-CL05A104KA5NNNC_C100072.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C100072"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temp"; Value = "+85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL05A104KA5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF,25V,10%"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Net: Net with name "V_MCU_3.3V" already exists

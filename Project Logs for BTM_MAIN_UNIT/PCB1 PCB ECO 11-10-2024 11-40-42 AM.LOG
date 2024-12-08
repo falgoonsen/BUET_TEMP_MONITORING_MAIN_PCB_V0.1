@@ -1,0 +1,17 @@
+Add Component: Footprint Not Found XCVR_ESP8266-01/ESP-01
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-5
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Member To Class: ClassName=U_BUZZER Member=Component R? 1K
+Added Member To Class: ClassName=U_ESP8266 MODULE Member=Component R? 10K
+Add Class Member: Failed to add class member : Component U? ESP8266-01/ESP-01

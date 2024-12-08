@@ -1,0 +1,66 @@
+Add Component: Footprint Not Found SOT229P700X180-4N
+Added Component: Designator=SB1(solder bridge)
+Added Component: Designator=SB2(solder bridge)
+Added Component: Designator=SB3(solder bridge)
+Added Component: Designator=SB4(solder bridge)
+Added Component: Designator=SB5(solder bridge)
+Added Component: Designator=SB6(solder bridge)
+Added Component: Designator=SB7(solder bridge)
+Added Component: Designator=SB8(solder bridge)
+Added Component: Designator=SB9(solder bridge)
+Added Component: Designator=SB10(solder bridge)
+Add Component: Footprint Not Found 8-VSSOP
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-1
+Added Pin To Net: NetName=SD_SCLK Pin=SB1-2
+Added Pin To Net: NetName=NetSB2_1 Pin=SB2-1
+Added Pin To Net: NetName=SD_MISO Pin=SB2-2
+Added Pin To Net: NetName=NetSB3_1 Pin=SB3-1
+Added Pin To Net: NetName=SD_MOSI Pin=SB3-2
+Added Pin To Net: NetName=NetSB4_1 Pin=SB4-1
+Added Pin To Net: NetName=SD_CS Pin=SB4-2
+Added Pin To Net: NetName=SDIO_D2 Pin=SB5-1
+Added Pin To Net: NetName=NetSB5_2 Pin=SB5-2
+Added Pin To Net: NetName=SDIO_D3 Pin=SB6-1
+Added Pin To Net: NetName=NetSB4_1 Pin=SB6-2
+Added Pin To Net: NetName=SDIO_CMD Pin=SB7-1
+Added Pin To Net: NetName=NetSB3_1 Pin=SB7-2
+Added Pin To Net: NetName=SDIO_CLK Pin=SB8-1
+Added Pin To Net: NetName=NetSB1_1 Pin=SB8-2
+Added Pin To Net: NetName=SDIO_D0 Pin=SB9-1
+Added Pin To Net: NetName=NetSB2_1 Pin=SB9-2
+Added Pin To Net: NetName=SDIO_D1 Pin=SB10-1
+Added Pin To Net: NetName=NetSB10_2 Pin=SB10-2
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Class Member: Failed to add class member : Component IC1 AMS1117-3.3
+Added Member To Class: ClassName=SD card Member=Component SB1 solder bridge
+Added Member To Class: ClassName=SD card Member=Component SB2 solder bridge
+Added Member To Class: ClassName=SD card Member=Component SB3 solder bridge
+Added Member To Class: ClassName=SD card Member=Component SB4 solder bridge
+Added Member To Class: ClassName=SD card Member=Component SB5 solder bridge
+Added Member To Class: ClassName=SD card Member=Component SB6 solder bridge
+Added Member To Class: ClassName=SD card Member=Component SB7 solder bridge
+Added Member To Class: ClassName=SD card Member=Component SB8 solder bridge
+Added Member To Class: ClassName=SD card Member=Component SB9 solder bridge
+Added Member To Class: ClassName=SD card Member=Component SB10 solder bridge
+Add Class Member: Failed to add class member : Component U9 TXS0102DCUR

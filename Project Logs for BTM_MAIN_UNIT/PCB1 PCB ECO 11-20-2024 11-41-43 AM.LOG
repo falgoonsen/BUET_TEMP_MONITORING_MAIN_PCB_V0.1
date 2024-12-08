@@ -1,0 +1,278 @@
+Added Component: Designator=AE1(ANT 1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180301/C89334_15198946260391384223.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C89334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JOHANSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2450AT18A100E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+125?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Added Component: Designator=C93(CAPC1608X90N)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603CG120J500NT_C1642.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C1642"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0603CG120J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50V,12pF"; VariantName = "[No Variations]"
+Added Component: Designator=C94(CAPC1608X90N)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603CG120J500NT_C1642.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C1642"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0603CG120J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50V,12pF"; VariantName = "[No Variations]"
+Added Component: Designator=C95(CAPC1608X90N)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603B105K250NT_C59302.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C59302"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0603B105K250NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "25V,1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C96(C0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://componentsearchengine.com/Datasheets/3/CC0603KRX7R9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "35 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "15 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "603-CC603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nf,50V,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C97(C0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2401221706_TDK-C1608C0G1H101J080AA_C3907784.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3907784"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "C1608C0G1H101J080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF,50V,5%"; VariantName = "[No Variations]"
+Added Component: Designator=C98(CAPC1608X90N)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603CG120J500NT_C1642.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C1642"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0603CG120J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50V,12pF"; VariantName = "[No Variations]"
+Added Component: Designator=C99(CAPC1608X90N)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603CG120J500NT_C1642.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C1642"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0603CG120J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50V,12pF"; VariantName = "[No Variations]"
+Added Component: Designator=C100(C0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://componentsearchengine.com/Datasheets/3/CC0603KRX7R9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "35 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "15 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "603-CC603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nf,50V,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C101(C0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://componentsearchengine.com/Datasheets/3/CC0603KRX7R9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "35 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "15 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "603-CC603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nf,50V,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C102(C0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://lcsc.componentsearchengine.com/Datasheets/2/CL10A475KQ8NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CL10A475KQ8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "4.7uF,10V±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C103(C0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10C0R8BB8NNNC_C21357.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C21357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp"; Value = "+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temp"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CL10C0R8BB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L6(L-0402)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20231027/6126A3AAC5912C34388756BE22DEE00C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C14033"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SDCL1005C3N9STDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED_0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_1810231512_Lite-On-LTST-C191KRKT_C125099.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C125099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LTST-C191KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "20mA,2V"; VariantName = "[No Variations]"
+Added Component: Designator=P_H1(pin header 4)
+Added Component: Designator=P_H2(pin header 4)
+Added Component: Designator=R119(R0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO,75V"; VariantName = "[No Variations]"
+Added Component: Designator=R120(R0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1001T5E_C21190.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0603WAF1001T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K,75V,1%"; VariantName = "[No Variations]"
+Added Component: Designator=R121(R0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO,75V"; VariantName = "[No Variations]"
+Added Component: Designator=S3(B3U-1000P)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.omron.com/ecb/products/pdf/en-b3u.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C231329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "653-B3U-1000P"; VariantName = "[No Variations]"
+Added Component: Designator=U32(QFN40P600X600X90-49N)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_1810010217_Nordic-Semicon-NRF52832-QFAA-R_C77540.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C77540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "NRF52832-QFAA-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VFQFN-48 Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X3(SMD2016-4P,crystral)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190430/C254298_7A65B7D2FB33A890B7E374D25EF99C0B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C254298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HELE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "X2C032000B81H-HS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD2016-4P"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(SMD3215-2P)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810171817_Seiko-Epson-Q13FC13500004_C32346.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C32346"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Seiko Epson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "Q13FC1350000400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD3215-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "32.768kHz,±20ppm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C93-1
+Added Pin To Net: NetName=GND Pin=C94-1
+Added Pin To Net: NetName=GND Pin=C95-2
+Added Pin To Net: NetName=GND Pin=C96-2
+Added Pin To Net: NetName=GND Pin=C97-1
+Added Pin To Net: NetName=GND Pin=C98-1
+Added Pin To Net: NetName=GND Pin=C99-1
+Added Pin To Net: NetName=GND Pin=C100-1
+Added Pin To Net: NetName=GND Pin=C101-1
+Added Pin To Net: NetName=GND Pin=C102-2
+Added Pin To Net: NetName=GND Pin=C103-1
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Added Pin To Net: NetName=GND Pin=LED3-1
+Added Pin To Net: NetName=GND Pin=P_H1-3
+Added Pin To Net: NetName=GND Pin=P_H2-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=U32-31
+Added Pin To Net: NetName=GND Pin=U32-45
+Added Pin To Net: NetName=GND Pin=U32-49
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X3-4
+Added Pin To Net: NetName=3V3 Pin=C100-2
+Added Pin To Net: NetName=3V3 Pin=C101-2
+Added Pin To Net: NetName=3V3 Pin=C102-1
+Added Pin To Net: NetName=3V3 Pin=P_H1-1
+Added Pin To Net: NetName=3V3 Pin=P_H2-1
+Added Pin To Net: NetName=3V3 Pin=R119-2
+Added Pin To Net: NetName=3V3 Pin=R121-1
+Added Pin To Net: NetName=3V3 Pin=U32-13
+Added Pin To Net: NetName=3V3 Pin=U32-36
+Added Pin To Net: NetName=3V3 Pin=U32-48
+Added Net: Name=3V3
+Added Pin To Net: NetName=ANPWREN Pin=U32-10
+Added Net: Name=ANPWREN
+Added Pin To Net: NetName=BUTTON Pin=R121-2
+Added Pin To Net: NetName=BUTTON Pin=S3-1
+Added Pin To Net: NetName=BUTTON Pin=U32-37
+Added Net: Name=BUTTON
+Added Pin To Net: NetName=CHRGEN Pin=U32-8
+Added Net: Name=CHRGEN
+Added Pin To Net: NetName=CHRGSTS Pin=U32-5
+Added Net: Name=CHRGSTS
+Added Pin To Net: NetName=DBG_RX Pin=U32-38
+Added Net: Name=DBG_RX
+Added Pin To Net: NetName=DBG_TX Pin=P_H2-3
+Added Pin To Net: NetName=DBG_TX Pin=U32-39
+Added Net: Name=DBG_TX
+Added Pin To Net: NetName=LED Pin=R120-1
+Added Pin To Net: NetName=LED Pin=U32-27
+Added Net: Name=LED
+Added Pin To Net: NetName=NetAE1_1 Pin=AE1-1
+Added Pin To Net: NetName=NetAE1_1 Pin=L6-2
+Added Net: Name=NetAE1_1
+Added Pin To Net: NetName=NetC95_1 Pin=C95-1
+Added Pin To Net: NetName=NetC95_1 Pin=U32-46
+Added Net: Name=NetC95_1
+Added Pin To Net: NetName=NetC96_1 Pin=C96-1
+Added Pin To Net: NetName=NetC96_1 Pin=U32-1
+Added Net: Name=NetC96_1
+Added Pin To Net: NetName=NetC97_2 Pin=C97-2
+Added Pin To Net: NetName=NetC97_2 Pin=U32-33
+Added Net: Name=NetC97_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R120-2
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NTCTEMP Pin=U32-6
+Added Net: Name=NTCTEMP
+Added Pin To Net: NetName=RESET Pin=R119-1
+Added Pin To Net: NetName=RESET Pin=U32-24
+Added Net: Name=RESET
+Added Pin To Net: NetName=RF_FILTER Pin=C103-2
+Added Pin To Net: NetName=RF_FILTER Pin=L6-1
+Added Pin To Net: NetName=RF_FILTER Pin=U32-30
+Added Net: Name=RF_FILTER
+Added Pin To Net: NetName=SWCLK Pin=P_H1-2
+Added Pin To Net: NetName=SWCLK Pin=U32-25
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P_H1-4
+Added Pin To Net: NetName=SWDIO Pin=U32-26
+Added Net: Name=SWDIO
+Add Net: Net with name "V_MCU_3.3V" already exists
+Added Pin To Net: NetName=VCAPSNSEN Pin=U32-11
+Added Net: Name=VCAPSNSEN
+Added Pin To Net: NetName=VCAPSNS Pin=U32-7
+Added Net: Name=VCAPSNS
+Added Pin To Net: NetName=VCC Pin=C55-2
+Added Pin To Net: NetName=VCC Pin=C56-2
+Added Pin To Net: NetName=VCC Pin=C57-2
+Added Pin To Net: NetName=VCC Pin=C58-2
+Added Pin To Net: NetName=VCC Pin=C61-2
+Added Pin To Net: NetName=VCC Pin=C62-2
+Added Pin To Net: NetName=VCC Pin=C63-2
+Added Pin To Net: NetName=VCC Pin=C64-2
+Added Pin To Net: NetName=VCC Pin=U18-19
+Added Pin To Net: NetName=VCC Pin=U18-20
+Added Pin To Net: NetName=VCC Pin=U19-19
+Added Pin To Net: NetName=VCC Pin=U19-20
+Added Pin To Net: NetName=VCC Pin=U22-19
+Added Pin To Net: NetName=VCC Pin=U22-20
+Added Pin To Net: NetName=VCC Pin=U23-19
+Added Pin To Net: NetName=VCC Pin=U23-20
+Added Net: Name=VCC
+Added Pin To Net: NetName=VCHRGSNS Pin=U32-4
+Added Net: Name=VCHRGSNS
+Added Pin To Net: NetName=XTAL_HF1 Pin=C98-2
+Added Pin To Net: NetName=XTAL_HF1 Pin=U32-34
+Added Pin To Net: NetName=XTAL_HF1 Pin=X3-1
+Added Net: Name=XTAL_HF1
+Added Pin To Net: NetName=XTAL_HF2 Pin=C99-2
+Added Pin To Net: NetName=XTAL_HF2 Pin=U32-35
+Added Pin To Net: NetName=XTAL_HF2 Pin=X3-3
+Added Net: Name=XTAL_HF2
+Added Pin To Net: NetName=XTAL_LF1 Pin=C93-2
+Added Pin To Net: NetName=XTAL_LF1 Pin=U32-2
+Added Pin To Net: NetName=XTAL_LF1 Pin=Y2-1
+Added Net: Name=XTAL_LF1
+Added Pin To Net: NetName=XTAL_LF2 Pin=C94-2
+Added Pin To Net: NetName=XTAL_LF2 Pin=U32-3
+Added Pin To Net: NetName=XTAL_LF2 Pin=Y2-2
+Added Net: Name=XTAL_LF2
+Added Class: Name=U_NRF52

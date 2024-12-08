@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=V_MCU_3.3V Pin=R70-2
+Removed Pin From Net: NetName=V_MCU_3.3V Pin=R71-2
+Removed Pin From Net: NetName=V_MCU_3.3V Pin=R74-2
+Removed Pin From Net: NetName=V_MCU_3.3V Pin=R75-2
+Removed Pin From Net: NetName=GND Pin=U12-3
+Removed Pin From Net: NetName=GND Pin=U13-3
+Removed Member From Class: ClassName=INPUT Member=D7
+Removed Member From Class: ClassName=INPUT Member=D8
+Removed Member From Class: ClassName=INPUT Member=R74
+Removed Member From Class: ClassName=INPUT Member=R75
+Removed Member From Class: ClassName=INPUT Member=R76
+Removed Member From Class: ClassName=INPUT Member=R77
+Removed Member From Class: ClassName=INPUT Member=U12
+Removed Member From Class: ClassName=INPUT Member=U13
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Component: Footprint Not Found 8-VSSOP
+Added Pin To Net: NetName=V_MCU_3.3V Pin=C73-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=C74-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=C75-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=C76-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=C77-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=C78-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=C79-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=C80-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=C81-2
+Added Pin To Net: NetName=V_MCU_3.3V Pin=C82-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Added Pin To Net: NetName=V_MCU_3.3V Pin=S2-2
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-8
+Added Pin To Net: NetName=V_MCU_3.3V Pin=U26-13
+Added Pin To Net: NetName=V_MCU_3.3V Pin=U26-19
+Added Pin To Net: NetName=V_MCU_3.3V Pin=U26-32
+Added Pin To Net: NetName=V_MCU_3.3V Pin=U26-48
+Added Pin To Net: NetName=V_MCU_3.3V Pin=U26-64
+Add Net: Net with name "+5V" already exists
+Add Net: Net with name "RS450_EN" already exists
+Add Net: Net with name "RS485_A" already exists
+Add Net: Net with name "RS485_B" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Net: Net with name "V_MCU_3.3V" already exists
+Add Class Member: Failed to add class member : Component IC1 AMS1117-3.3
+Add Class Member: Failed to add class member : Component U9 TXS0102DCUR

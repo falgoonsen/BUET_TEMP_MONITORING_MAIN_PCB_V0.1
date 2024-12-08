@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=AC_N Pin=G1-1
+Removed Pin From Net: NetName=AC_L Pin=J2-1
+Removed Pin From Net: NetName=AC_L Pin=J2-1
+Removed Pin From Net: NetName=AC_N Pin=J3-1
+Removed Pin From Net: NetName=AC_N Pin=J3-1
+Removed Pin From Net: NetName=NetC36_2 Pin=L2-1
+Removed Pin From Net: NetName=AC_N Pin=L2-2
+Removed Pin From Net: NetName=NetC36_2 Pin=R51-2
+Removed Pin From Net: NetName=NetC36_2 Pin=R52-2
+Removed Pin From Net: NetName=AC_N Pin=R58-1
+Removed Pin From Net: NetName=AC_N Pin=R59-1
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=C35
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=C39
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=G1
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=J2
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=J3
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=J4
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=L2
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=R51
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=R52
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=R54
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=R55
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=R58
+Removed Member From Class: ClassName=U_POWER SUPPLY Member=R59
+Added Pin To Net: NetName=NetC36_2 Pin=D4-3
+Added Pin To Net: NetName=AC_N Pin=D4-4
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Added Pin To Net: NetName=NetC36_2 Pin=T1-1
+Added Pin To Net: NetName=AC_N Pin=T1-2
+Add Net: Net with name "V_MCU_3.3V" already exists
