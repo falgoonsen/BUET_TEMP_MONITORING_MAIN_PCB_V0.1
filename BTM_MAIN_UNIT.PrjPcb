@@ -712,7 +712,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document40]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\connector_button.PcbLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\connector_button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -729,7 +729,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document41]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\connector_button.SchLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\connector_button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -743,10 +743,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ORANMZIK
 
 [Document42]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\Display.PcbLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\Display.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -763,7 +763,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document43]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\Display.SchLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\Display.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -777,27 +777,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ECMGLJWZ
 
 [Document44]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\IC.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KGXLHDOL
-
-[Document45]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\IC.SchLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\IC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -813,8 +796,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document45]
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\IC.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EYNSRDTC
+
 [Document46]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\LED.PcbLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\LED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -831,7 +831,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document47]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\LED.SchLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\LED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -845,10 +845,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YHBFGTTJ
 
 [Document48]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\Module.PcbLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\Module.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -865,7 +865,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document49]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\Module.SchLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\Module.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -879,10 +879,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IJLXQJQR
 
 [Document50]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\MOS_TRAN.PcbLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\MOS_TRAN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -899,7 +899,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document51]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\MOS_TRAN.SchLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\MOS_TRAN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -913,10 +913,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LCRSXQWH
 
 [Document52]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\RCL.PcbLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\RCL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -933,7 +933,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document53]
-DocumentPath=..\..\..\..\all pcb\Altium Global library\RCL.SchLib
+DocumentPath=..\..\..\..\..\all pcb\Altium Global library\RCL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -947,7 +947,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CRIAWNNU
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BTM_MAIN_UNIT\Design Rule Check - PCB1.html
@@ -976,7 +976,7 @@ AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=-1
+ExportBOM=0
 TemplateFilename=
 TemplateStoreRelative=-1
 PCB_PrintColor=0
